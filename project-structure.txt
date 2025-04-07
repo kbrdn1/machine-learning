@@ -1,0 +1,18 @@
+.
+├── body_gb_feature_importance.png
+├── body_performance_class_distribution.png
+├── body_performance_correlation.png
+├── body_rf_feature_importance.png
+├── credit_card_label_distribution.png
+├── credit_xgb_feature_importance.png
+├── dataset
+│   ├── body_performance.csv
+│   ├── credit_card.csv
+│   ├── credit_card_label.csv
+│   └── x_y.csv
+├── ml1.py
+├── ml_env
+├── project-structure.txt
+├── README.md
+├── xy_regression.png
+└── xy_scatter.png
