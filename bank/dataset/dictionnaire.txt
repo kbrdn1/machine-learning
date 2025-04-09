@@ -1,0 +1,21 @@
+CLIENTNUM: Numéro client
+Attrition_Flag: Variable d'évènement interne - 1 si le compte est fermé, 0 sinon
+Customer_Age: Âge du client
+Gender: Genre
+Dependent_count: Nombre de personnes du foyer
+Education_Level: Niveau d'éducation
+Marital_Status: Statut marital
+Income_Category: Types de revenus
+Card_Category: Type de carte de crédit
+Months_on_book: Durée de la relation avec la banque
+Total_Relationship_Count: Nombre de produits détenus par le client
+Months_Inactive_12_mon: Nombre de mois d'inactivité au cours des 12 derniers mois
+Contacts_Count_12_mon: Nombre de contacts avec la banque sur les 12 derniers mois
+Credit_Limit: Plafond de la carte bancaire
+Total_Revolving_Bal: Montant du crédit à la consomation
+Avg_Open_To_Buy: Ligne de crédit ouverte à l'achat sur les 12 derniers mois
+Total_Amt_Chng_Q4_Q1: Évolution du nombre de transaction entre le Q4 et Q1
+Total_Trans_Amt: Montant total de transactions sur les 12 derniers mois
+Total_Trans_Ct: Nombre total de transactions sur les 12 derniers mois
+Total_Ct_Chng_Q4_Q1: Variation du nombre de transactions entre Q4 et Q1
+Avg_Utilization_Ratio: Moyenne du ratio d'utilisation de la carte bancaire
